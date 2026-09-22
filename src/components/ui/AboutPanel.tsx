@@ -96,6 +96,7 @@ export function AboutPanel({ open, onClose }: AboutPanelProps) {
             авторы и лицензии сохраняются у каждой фотографии. Сайт статичен: ни карта, ни
             тексты не запрашиваются из Wikipedia во время просмотра.
           </p>
+          <p>{SITE.credit}</p>
         </div>
       </section>
     </div>

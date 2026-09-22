@@ -22,6 +22,7 @@ export const metadata: Metadata = {
     template: `%s — ${SITE.fullTitle}`,
   },
   description: SITE.description,
+  authors: [{ name: SITE.author }],
   openGraph: {
     title: SITE.fullTitle,
     description: SITE.description,
