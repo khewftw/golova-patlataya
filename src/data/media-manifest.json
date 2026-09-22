@@ -1,0 +1,669 @@
+{
+  "young-guard": {
+    "images": [
+      {
+        "src": "/media/movements/young-guard/hero.webp",
+        "alt": "Вручение орденов членам организации „Молодая гвардия“ // Красный амурец 1943 № 241",
+        "caption": "Вручение орденов членам организации „Молодая гвардия“ // Красный амурец 1943 № 241",
+        "year": "1943",
+        "author": "сообщение ТАСС без указания автора",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A1943._%D0%92%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%BE%D0%B2_%D1%87%D0%BB%D0%B5%D0%BD%D0%B0%D0%BC_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%E2%80%9E%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D1%8F%E2%80%9C.png"
+      },
+      {
+        "src": "/media/movements/young-guard/01.webp",
+        "alt": "Юные герои Краснодона // Красный флот 1943 № 218 (1476)",
+        "caption": "Юные герои Краснодона // Красный флот 1943 № 218 (1476)",
+        "year": "1943",
+        "author": "неизвестен",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A1943._%D0%AE%D0%BD%D1%8B%D0%B5_%D0%B3%D0%B5%D1%80%D0%BE%D0%B8_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%BE%D0%BD%D0%B0.png"
+      },
+      {
+        "src": "/media/movements/young-guard/03.webp",
+        "alt": "Марка СССР 1944 года: Ульяна Громова, Иван Земнухов, Олег Кошевой, Сергей Тюленин, Любовь Шевцова.",
+        "caption": "Марка СССР 1944 года: Ульяна Громова, Иван Земнухов, Олег Кошевой, Сергей Тюленин, Любовь Шевцова. Послевоенная канонизация, не снимок 1942 года.",
+        "year": "1944",
+        "author": "Почта СССР",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A1944_CPA_887.jpg"
+      }
+    ]
+  },
+  "zazous": {
+    "images": [
+      {
+        "src": "/media/movements/zazous/hero.webp",
+        "alt": "Историческая схема мужского костюма zazou: длинный пиджак и характерный силуэт. Свободных архивных портретов сцены на Commons почти нет; это графическая реконструкция стиля, не фотография конкретного кружка.",
+        "caption": "Историческая схема мужского костюма zazou: длинный пиджак и характерный силуэт. Свободных архивных портретов сцены на Commons почти нет; это графическая реконструкция стиля, не фотография конкретного кружка.",
+        "year": "реконструкция",
+        "author": "jnl / Wikimedia Commons",
+        "license": "CC BY-SA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zazou_h_ill.png"
+      },
+      {
+        "src": "/media/movements/zazous/01.webp",
+        "alt": "Цветная схема того же силуэта. Не фотография оккупированного Парижа и не кадр Сопротивления — только костюмный язык субкультуры.",
+        "caption": "Цветная схема того же силуэта. Не фотография оккупированного Парижа и не кадр Сопротивления — только костюмный язык субкультуры.",
+        "author": "Gebu / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zazou_in_color.svg"
+      }
+    ]
+  },
+  "swing-youth": {
+    "images": [
+      {
+        "src": "/media/movements/swing-youth/vossberg.webp",
+        "alt": "Восемь молодых людей в пальто и шляпах у входа в заведение Zum Vossberg",
+        "caption": "Молодые люди у заведения Zum Vossberg (Эльбшлосс). Снимок городского круга, близкого свинговой сцене; по одному кадру нельзя надёжно назвать всю группу Swing Jugend.",
+        "author": "материал статьи",
+        "license": "локальный архив",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Swing-Jugend"
+      },
+      {
+        "src": "/media/movements/swing-youth/dance.webp",
+        "alt": "Пара танцует свинг: партнёр в светлых брюках делает высокий шаг",
+        "caption": "Свинг на танцполе. Так выглядела пластика, которую культурная бюрократия рейха клеймила и запрещала; кадр показывает стиль, а не конкретную гамбургскую группу.",
+        "author": "материал статьи",
+        "license": "локальный архив",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Swingjugend"
+      },
+      {
+        "src": "/media/movements/swing-youth/entartete.webp",
+        "alt": "Графика в духе плаката выставки Entartete Musik: карикатура джазового музыканта с саксофоном",
+        "caption": "Поздняя графика по мотивам плаката выставки «Entartete Musik» (Дюссельдорф, 1938). Нацистская пропаганда изображала джаз как «вырожденное» искусство.",
+        "author": "материал статьи",
+        "license": "локальный архив",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Degenerate_music"
+      },
+      {
+        "src": "/media/movements/swing-youth/verboten.webp",
+        "alt": "Красно-белая табличка Swinging tanzen verboten, Reichskulturkammer",
+        "caption": "«Swinging tanzen verboten» — формула запрета, связываемая с Reichskulturkammer. Свинг вытесняли из залов как чуждую «немецкому» вкусу музыку.",
+        "author": "материал статьи",
+        "license": "локальный архив",
+        "sourceUrl": "https://www.nationalww2museum.org/war/articles/swing-youth-jazz-nazi-germany"
+      },
+      {
+        "src": "/media/movements/swing-youth/plaque.webp",
+        "alt": "Эмалевая табличка Swinging tanzen verboten на кирпичной стене",
+        "caption": "Поздний эмалевый знак с той же формулой запрета. Такие предметы сегодня держат память о преследовании свинговой молодёжи и не являются протоколом 1941 года.",
+        "author": "материал статьи",
+        "license": "локальный архив",
+        "sourceUrl": "https://www.dw.com/en/swing-youth-in-nazi-germany-jazz-was-an-act-of-defiance/a-77143547"
+      }
+    ]
+  },
+  "grey-ranks": {
+    "images": [
+      {
+        "src": "/media/movements/grey-ranks/hero.webp",
+        "alt": "Warsaw Uprising: Brothers Jeleniewicz \"Żbik\" and \"Ryś\" from Scout Postal Service distributing insurgent press at Tamka Street in August 1944.",
+        "caption": "Warsaw Uprising: Brothers Jeleniewicz \"Żbik\" and \"Ryś\" from Scout Postal Service distributing insurgent press at Tamka Street in August 1944.",
+        "year": "August 194",
+        "author": "Tadeusz Bukowski",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A03_Harcerska_Poczta_Polowa_Zawiszacy.jpg"
+      },
+      {
+        "src": "/media/movements/grey-ranks/01.webp",
+        "alt": "Emblem of battalion \"Parasol\" (\"Umbrella\")",
+        "caption": "Emblem of battalion \"Parasol\" (\"Umbrella\")",
+        "year": "3 August 2",
+        "author": "Reytan",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABatalionParasol.svg"
+      },
+      {
+        "src": "/media/movements/grey-ranks/02.webp",
+        "alt": "Soldiers of Batalion Zośka of Polish Home Army during Warsaw Uprising on 5 August 1944 in Gęsiówka. The men are dressed in captured German uniforms and armed with confiscated Germa",
+        "caption": "Soldiers of Batalion Zośka of Polish Home Army during Warsaw Uprising on 5 August 1944 in Gęsiówka. The men are dressed in captured German uniforms and armed with confiscated German weapons. From left: Wojciech Omyła \"Wojtek\", Juliusz Bogda",
+        "year": "1944-08-05",
+        "author": "Juliusz Bogdan Deczkowski",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAK-soldiers_Parasol_Regiment_Warsaw_Uprising_1944.jpg"
+      },
+      {
+        "src": "/media/movements/grey-ranks/03.webp",
+        "alt": "The plaque at 14 Grzegórzecka",
+        "caption": "The plaque at 14 Grzegórzecka",
+        "year": "2012-03-11",
+        "author": "Kala9621",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGrzeg%C3%B3rzecka_14.jpg"
+      }
+    ]
+  },
+  "churchill-club": {
+    "images": [
+      {
+        "src": "/media/movements/churchill-club/hero.webp",
+        "alt": "Участники Churchill-klubben. Школьный кружок Ольборга 1941–1942 годов, а не общенациональная датская сеть Сопротивления.",
+        "caption": "Участники Churchill-klubben. Школьный кружок Ольборга 1941–1942 годов, а не общенациональная датская сеть Сопротивления.",
+        "author": "неизвестен / Wikimedia Commons",
+        "license": "см. страницу файла",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ChurchillClub.jpg"
+      }
+    ]
+  },
+  "fronte-gioventu": {
+    "images": [
+      {
+        "src": "/media/movements/fronte-gioventu/hero.webp",
+        "alt": "Итальянский партизан во Флоренции, 14 августа 1944 года. Кадр Сопротивления 1943–1945 годов, а не довоенной фашистской GIL.",
+        "caption": "Итальянский партизан во Флоренции, 14 августа 1944 года. Кадр Сопротивления 1943–1945 годов, а не довоенной фашистской GIL.",
+        "year": "1944",
+        "author": "Tanner (Capt), War Office",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_Italian_partisan_in_Florence%2C_14_August_1944._TR2282.jpg"
+      },
+      {
+        "src": "/media/movements/fronte-gioventu/01.webp",
+        "alt": "Женщины с оружием после освобождения, Милан, 26 апреля 1945 года. Кадр, вероятно, постановочный; он показывает атмосферу конца войны, а не штаб Fronte della Gioventù.",
+        "caption": "Женщины с оружием после освобождения, Милан, 26 апреля 1945 года. Кадр, вероятно, постановочный; он показывает атмосферу конца войны, а не штаб Fronte della Gioventù.",
+        "year": "1945",
+        "author": "Valentino Petrelli",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Partigiane_a_Brera.jpg"
+      }
+    ]
+  },
+  "epon": {
+    "images": [
+      {
+        "src": "/media/movements/epon/hero.webp",
+        "alt": "Агитационный плакат ЭПОН: призыв к студентам. Экспонат Музея национального сопротивления в Илиуполи; сам текст военного времени.",
+        "caption": "Агитационный плакат ЭПОН: призыв к студентам. Экспонат Музея национального сопротивления в Илиуполи; сам текст военного времени.",
+        "author": "Catlemur / Museum of National Resistance of Ilioupoli",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:EPON_Uni_Student_Poster_Ilioupoli.jpg"
+      },
+      {
+        "src": "/media/movements/epon/01.webp",
+        "alt": "Ещё один плакат ЭПОН из того же музейного собрания.",
+        "caption": "Ещё один плакат ЭПОН из того же музейного собрания.",
+        "author": "Catlemur / Museum of National Resistance of Ilioupoli",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Days_EPON_Poster_Ilioupoli.jpg"
+      }
+    ]
+  },
+  "skoj": {
+    "images": [
+      {
+        "src": "/media/movements/skoj/hero.webp",
+        "alt": "Иво Лола Рибар, секретарь ЦК SKOJ, погибший в ноябре 1943 года. Портрет военного времени, а не послевоенного государственного союза.",
+        "caption": "Иво Лола Рибар, секретарь ЦК SKOJ, погибший в ноябре 1943 года. Портрет военного времени, а не послевоенного государственного союза.",
+        "year": "до 1943",
+        "author": "Žorž Skrigin",
+        "license": "см. страницу файла",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ivo_Lola_Ribar.jpg"
+      },
+      {
+        "src": "/media/movements/skoj/01.webp",
+        "alt": "Центральный комитет SKOJ. Кадр партийной молодёжной иерархии, не спонтанной субкультуры.",
+        "caption": "Центральный комитет SKOJ. Кадр партийной молодёжной иерархии, не спонтанной субкультуры.",
+        "author": "Wikimedia Commons",
+        "license": "см. страницу файла",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Centralni_komitet_SKOJ-a.jpg"
+      },
+      {
+        "src": "/media/movements/skoj/02.webp",
+        "alt": "Иво Лола Рибар выступает на Первом съезде молодёжи Югославии.",
+        "caption": "Иво Лола Рибар выступает на Первом съезде молодёжи Югославии.",
+        "author": "Wikimedia Commons",
+        "license": "см. страницу файла",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sekretar_SKOJ-a_Ivo_Lola_Ribar_govori_na_Prvom_kongresu_omladine_Jugoslavije.jpg"
+      }
+    ]
+  },
+  "predvoj": {
+    "images": [
+      {
+        "src": "/media/movements/predvoj/hero.webp",
+        "alt": "Prague liberated by Red Army in may 1945 - marshall Konev",
+        "caption": "Prague liberated by Red Army in may 1945 - marshall Konev",
+        "year": "1945",
+        "author": "Karel Hájek",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APrague_liberation_1945_konev.jpg"
+      },
+      {
+        "src": "/media/movements/predvoj/01.webp",
+        "alt": "Pražské barikády během květnového povstání 1945",
+        "caption": "Pražské barikády během květnového povstání 1945",
+        "year": "1945-05",
+        "author": "Helena Melezínková",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APrague_uprising%2C_May_1945_03.jpg"
+      },
+      {
+        "src": "/media/movements/predvoj/02.webp",
+        "alt": "Staroměstská radnice",
+        "caption": "Staroměstská radnice",
+        "year": "1945-05",
+        "author": "Helena Melezínková",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APrague_uprising%2C_Old_Town_Square_02.jpg"
+      },
+      {
+        "src": "/media/movements/predvoj/03.webp",
+        "alt": "Pražské povstání, obránci barikád, květen 1945",
+        "caption": "Pražské povstání, obránci barikád, květen 1945",
+        "year": "1945-05",
+        "author": "Helena Melezínková",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APrague_uprising%2C_May_1945_01.jpg"
+      }
+    ]
+  },
+  "little-lottas": {
+    "images": [
+      {
+        "src": "/media/movements/little-lottas/hero.webp",
+        "alt": "10th anniversary of Oulu's Lotta Svärd organisation on February 28, 1932. Making the Lotta pledge at Oulu cathedral.",
+        "caption": "10th anniversary of Oulu's Lotta Svärd organisation on February 28, 1932. Making the Lotta pledge at Oulu cathedral.",
+        "year": "valmistusa",
+        "author": "Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A10th_anniversary_of_Oulu's_Lotta_Sv%C3%A4rd_organisation_at_Oulu_cathedral_1932_(JOKAKAL3B-3389).tif"
+      },
+      {
+        "src": "/media/movements/little-lottas/01.webp",
+        "alt": "Members of Lotta Svärd organisation distribute food on the school yard at Annankatu 30 in Helsinki 23.10.1939.",
+        "caption": "Members of Lotta Svärd organisation distribute food on the school yard at Annankatu 30 in Helsinki 23.10.1939.",
+        "year": "23 October",
+        "author": "Hugo Sundström",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADistribution_of_food_1939_(1933C%3B_JOKAHBL3B_J64-1).tif"
+      },
+      {
+        "src": "/media/movements/little-lottas/02.webp",
+        "alt": "10th anniversary of Oulu's Lotta Svärd organisation on February 28, 1932. Inauguration of the district's new flag at Oulu cathedral.",
+        "caption": "10th anniversary of Oulu's Lotta Svärd organisation on February 28, 1932. Inauguration of the district's new flag at Oulu cathedral.",
+        "year": "valmistusa",
+        "author": "Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A10th_anniversary_of_Oulu's_Lotta_Sv%C3%A4rd_organisation_at_Oulu_cathedral_1932_(JOKAKAL3B-3390).tif"
+      },
+      {
+        "src": "/media/movements/little-lottas/03.webp",
+        "alt": "A woman from Lotta Svärd-organization at Market Square in Helsinki during Easter 1939.",
+        "caption": "A woman from Lotta Svärd-organization at Market Square in Helsinki during Easter 1939.",
+        "year": "kuvausaika",
+        "author": "Vilho Uomala",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AEaster_at_Market_Square_in_Helsinki_1939_(JOKAVIU2A001-1).tif"
+      }
+    ]
+  },
+  "rms-bulgaria": {
+    "images": [
+      {
+        "src": "/media/movements/rms-bulgaria/hero.webp",
+        "alt": "Болгарские партизаны, фото Евгения Халдея, 1944 год. РМС в войну был связан с партизанским движением; кадр показывает среду, а не членский билет.",
+        "caption": "Болгарские партизаны, фото Евгения Халдея, 1944 год. РМС в войну был связан с партизанским движением; кадр показывает среду, а не членский билет.",
+        "year": "1944",
+        "author": "Евгений Халдей",
+        "license": "см. страницу файла",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bulgarian_partisan_Khaldei.jpg"
+      },
+      {
+        "src": "/media/movements/rms-bulgaria/01.webp",
+        "alt": "Пловдив, сентябрь 1944 года — дни переворота Отечественного фронта, когда РМС выходит из подполья.",
+        "caption": "Пловдив, сентябрь 1944 года — дни переворота Отечественного фронта, когда РМС выходит из подполья.",
+        "year": "1944",
+        "author": "Wikimedia Commons",
+        "license": "см. страницу файла",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plovdiv_September_1944.jpg"
+      }
+    ]
+  },
+  "straja-tarii": {
+    "images": [
+      {
+        "src": "/media/movements/straja-tarii/hero.webp",
+        "alt": "Эмблема Straja Țării (1935–1940). Свободных лагерных фотографий стражеров на Commons почти нет; знак — современная прорисовка исторического значка.",
+        "caption": "Эмблема Straja Țării (1935–1940). Свободных лагерных фотографий стражеров на Commons почти нет; знак — современная прорисовка исторического значка.",
+        "author": "Dahn",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Logo_and_badge_of_Straja_%C8%9A%C4%83rii.svg"
+      }
+    ]
+  },
+  "frente-juventudes": {
+    "images": [
+      {
+        "src": "/media/movements/frente-juventudes/hero.webp",
+        "alt": "Санчо Давила говорит с детьми из секций Flechas и Pelayos в лагере Бакио, 30 июля 1938 года. Прямой предшественник Frente de Juventudes 1940 года.",
+        "caption": "Санчо Давила говорит с детьми из секций Flechas и Pelayos в лагере Бакио, 30 июля 1938 года. Прямой предшественник Frente de Juventudes 1940 года.",
+        "year": "1938",
+        "author": "неизвестен",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sancho_D%C3%A1vila_flechas_y_pelayos_1938.jpg"
+      },
+      {
+        "src": "/media/movements/frente-juventudes/01.webp",
+        "alt": "Прибытие во «флечас» в лагерь «Мола», Бакио, 30 июля 1938 года.",
+        "caption": "Прибытие во «флечас» в лагерь «Мола», Бакио, 30 июля 1938 года.",
+        "year": "1938",
+        "author": "неизвестен",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campamento_Mola_flechas_y_pelayos_1938.jpg"
+      },
+      {
+        "src": "/media/movements/frente-juventudes/02.webp",
+        "alt": "Поднятие флага на открытии лагеря в Бакио, 1938 год.",
+        "caption": "Поднятие флага на открытии лагеря в Бакио, 1938 год.",
+        "year": "1938",
+        "author": "неизвестен",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inauguraci%C3%B3n_campamento_flechas_y_pelayos_Baquio_1938.jpg"
+      }
+    ]
+  },
+  "mocidade-portuguesa": {
+    "images": [
+      {
+        "src": "/media/movements/mocidade-portuguesa/hero.webp",
+        "alt": "Парад «лузитуш» Mocidade Portuguesa на авениде Арриага в Фуншале, 28 мая 1939 года. Архив Мадейры.",
+        "caption": "Парад «лузитуш» Mocidade Portuguesa на авениде Арриага в Фуншале, 28 мая 1939 года. Архив Мадейры.",
+        "year": "1939",
+        "author": "Foto Figueiras / Arquivo e Biblioteca da Madeira",
+        "license": "Public domain (Portugal / URAA)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PT-ABM-PHF-1296_-_Desfile_de_Lusitos%2C_da_Mocidade_Portuguesa%2C_Funchal.jpg"
+      },
+      {
+        "src": "/media/movements/mocidade-portuguesa/01.webp",
+        "alt": "Аспиранты Mocidade Portuguesa на гимнастике, 1938 год.",
+        "caption": "Аспиранты Mocidade Portuguesa на гимнастике, 1938 год.",
+        "year": "1938",
+        "author": "Wikimedia Commons",
+        "license": "см. страницу файла",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:16985_-_Aspirantes_da_Mocidade_Portuguesa_numa_sess%C3%A3o_de_gin%C3%A1stica_(1938).jpg"
+      }
+    ]
+  },
+  "air-training-corps": {
+    "images": [
+      {
+        "src": "/media/movements/air-training-corps/hero.webp",
+        "alt": "Atc Boys Lend a Hand on the Land- Agriculture in Wartime, England, UK, 1944\nBoys of the Air Training Corps use pitch forks to tidy up a stack of bales of straw on a farm somewhere ",
+        "caption": "Atc Boys Lend a Hand on the Land- Agriculture in Wartime, England, UK, 1944\nBoys of the Air Training Corps use pitch forks to tidy up a stack of bales of straw on a farm somewhere in the Home Counties.",
+        "year": "1944date Q",
+        "author": "\nMinistry of Information Photo Division Photographer",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAtc_Boys_Lend_a_Hand_on_the_Land-_Agriculture_in_Wartime%2C_England%2C_UK%2C_1944_D21252.jpg"
+      },
+      {
+        "src": "/media/movements/air-training-corps/01.webp",
+        "alt": "Atc at Gliding School- Cadets of the Air Training Corps, Denham Gliding School, Buckinghamshire, England, UK, 1945\nBoys of the Air Training Corps inspect a glider at Denham Gliding",
+        "caption": "Atc at Gliding School- Cadets of the Air Training Corps, Denham Gliding School, Buckinghamshire, England, UK, 1945\nBoys of the Air Training Corps inspect a glider at Denham Gliding School, Buckinghamshire.",
+        "year": "1945date Q",
+        "author": "\nMinistry of Information Photo Division Photographer",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAtc_at_Gliding_School-_Cadets_of_the_Air_Training_Corps%2C_Denham_Gliding_School%2C_Buckinghamshire%2C_England%2C_UK%2C_1945_D24547.jpg"
+      },
+      {
+        "src": "/media/movements/air-training-corps/02.webp",
+        "alt": "Air cadets learn the basics of flight at RNAS St Merryn in Cornwall, February 1944.\nFlight Lieutenant Prince Birabangse, well known in peacetime as the racing motorist B Bira, but ",
+        "caption": "Air cadets learn the basics of flight at RNAS St Merryn in Cornwall, February 1944.\nFlight Lieutenant Prince Birabangse, well known in peacetime as the racing motorist B Bira, but now Chief instructor at the school, shows a cadet how to han",
+        "year": "February 1",
+        "author": "\nUnknown authorUnknown author",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAir_cadets_learn_the_basics_of_flight_at_RNAS_St_Merryn_in_Cornwall%2C_February_1944._A22064.jpg"
+      },
+      {
+        "src": "/media/movements/air-training-corps/03.webp",
+        "alt": "15-year-old cadet Tommy McMordie from Luton Air Training Corps (ATC) in a Wellington bomber's rear turret at No 12 Operational Training Unit (OTU) at Chipping Warden, Northamptonsh",
+        "caption": "15-year-old cadet Tommy McMordie from Luton Air Training Corps (ATC) in a Wellington bomber's rear turret at No 12 Operational Training Unit (OTU) at Chipping Warden, Northamptonshire, 17 September 1944.\nBoys from the Luton Air Training Cor",
+        "year": "Taken on 1",
+        "author": "\nRoyal Air Force official photographer, Penfold (Fg Off)",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A15-year-old_cadet_Tommy_McMordie_from_Luton_Air_Training_Corps_(ATC)_in_a_Wellington_bomber's_rear_turret_at_No_12_Operational_Training_Unit_(OTU)_at_Chipping_Warden%2C_Northamptonshire%2C_17_September_1944._CH13880.jpg"
+      }
+    ]
+  },
+  "canadian-youth-congress": {
+    "images": [
+      {
+        "src": "/media/movements/canadian-youth-congress/hero.webp",
+        "alt": "Канадская студенческая и школьная среда первой половины XX века. Точная атрибуция кадра требует ручной проверки.",
+        "caption": "Канадская студенческая и школьная среда первой половины XX века. Точная атрибуция кадра требует ручной проверки.",
+        "author": "Wikimedia Commons",
+        "license": "см. страницу файла на Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Canadian+students+1940s"
+      }
+    ]
+  },
+  "pachuco-united-states": {
+    "images": [
+      {
+        "src": "/media/movements/pachuco-united-states/hero.webp",
+        "alt": "Трое мужчин в вариациях zoot suit. Снимок Ollie Atkins; National Archives / Nixon Library. Стиль pachuco, а не членский союз.",
+        "caption": "Трое мужчин в вариациях zoot suit. Снимок Ollie Atkins; National Archives / Nixon Library. Стиль pachuco, а не членский союз.",
+        "year": "1946",
+        "author": "Ollie Atkins",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zoot_Suiters_On_Parade.jpg"
+      },
+      {
+        "src": "/media/movements/pachuco-united-states/01.webp",
+        "alt": "Zoot suit, «мексиканский» drape style. Костюмный язык сцены, общий с приграничной Мексикой.",
+        "caption": "Zoot suit, «мексиканский» drape style. Костюмный язык сцены, общий с приграничной Мексикой.",
+        "author": "Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zoot_Suit,_Mexican_%22drape_style%22.png"
+      }
+    ]
+  },
+  "pachuco-mexico": {
+    "images": [
+      {
+        "src": "/media/movements/pachuco-mexico/hero.webp",
+        "alt": "Zoot suit в «мексиканском» drape style. Костюмный язык транснациональной сцены pachuco; не современный памятник Tin Tan.",
+        "caption": "Zoot suit в «мексиканском» drape style. Костюмный язык транснациональной сцены pachuco; не современный памятник Tin Tan.",
+        "author": "Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zoot_Suit,_Mexican_%22drape_style%22.png"
+      }
+    ]
+  },
+  "juventude-brasileira": {
+    "images": [
+      {
+        "src": "/media/movements/juventude-brasileira/hero.webp",
+        "alt": "Жетулиу Варгас, 1930 год. Политический контекст Estado Novo, в котором в 1940 году появилась Juventude Brasileira. Не фотография самой молодёжной организации.",
+        "caption": "Жетулиу Варгас, 1930 год. Политический контекст Estado Novo, в котором в 1940 году появилась Juventude Brasileira. Не фотография самой молодёжной организации.",
+        "year": "1930",
+        "author": "неизвестен",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Get%C3%BAlio_Vargas_-_1930.jpg"
+      }
+    ]
+  },
+  "anc-youth-league": {
+    "images": [
+      {
+        "src": "/media/movements/anc-youth-league/hero.webp",
+        "alt": "Нельсон Мандела в молодости (снимок относят к 1937 году). Один из основателей ANC Youth League (1944). Не фотография съезда лиги.",
+        "caption": "Нельсон Мандела в молодости (снимок относят к 1937 году). Один из основателей ANC Youth League (1944). Не фотография съезда лиги.",
+        "year": "1937",
+        "author": "неизвестен",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Young_Mandela.jpg"
+      }
+    ]
+  },
+  "aisf": {
+    "images": []
+  },
+  "new-democratic-youth-league": {
+    "images": [
+      {
+        "src": "/media/movements/new-democratic-youth-league/hero.webp",
+        "alt": "Флаг союза, опубликованный 4 мая 1950 года. Геральдика нового государственного института, не случайный современный флаг КНР.",
+        "caption": "Флаг союза, опубликованный 4 мая 1950 года. Геральдика нового государственного института, не случайный современный флаг КНР.",
+        "year": "1950",
+        "author": "Communist Youth League of China",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Communist_Youth_League_of_China.svg"
+      }
+    ]
+  },
+  "yokusan-sonendan": {
+    "images": [
+      {
+        "src": "/media/movements/yokusan-sonendan/hero.webp",
+        "alt": "Плакат Ёкусанкай 1942 года: «Сто миллионов, вперёд как огненные шары». Визуальный язык государственной мобилизации, в которой существовал и сонэндан.",
+        "caption": "Плакат Ёкусанкай 1942 года: «Сто миллионов, вперёд как огненные шары». Визуальный язык государственной мобилизации, в которой существовал и сонэндан.",
+        "year": "1942",
+        "author": "大政翼賛會",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Susume_Ichi-oku_Hinotama_Da%2C_Imperial_Rule_Assistance_Association%2C_1942.jpg"
+      },
+      {
+        "src": "/media/movements/yokusan-sonendan/01.webp",
+        "alt": "Значок члена Ёкусан сонэндан по предписанию 13 июня 1942 года.",
+        "caption": "Значок члена Ёкусан сонэндан по предписанию 13 июня 1942 года.",
+        "year": "1942",
+        "author": "Kinchaku",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yokusan_Sonendan.svg"
+      }
+    ]
+  },
+  "pesindo": {
+    "images": [
+      {
+        "src": "/media/movements/pesindo/hero.webp",
+        "alt": "Голландские военные у плаката Сталина, найденного в конторе Pesindo. Tropenmuseum. Кадр фиксирует организацию, а не её самопрезентацию.",
+        "caption": "Голландские военные у плаката Сталина, найденного в конторе Pesindo. Tropenmuseum. Кадр фиксирует организацию, а не её самопрезентацию.",
+        "year": "1940-е",
+        "author": "Tropenmuseum",
+        "license": "см. страницу файла",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Militairen_bij_een_affiche_met_het_portret_van_Stalin_door_hen_aangetroffen_op_het_kantoor_van_de_Pemuda_Sosialis_Indonesia_(Pesindo)_TMnr_60054585.jpg"
+      }
+    ]
+  },
+  "vanguard-youth": {
+    "images": [
+      {
+        "src": "/media/movements/vanguard-youth/hero.webp",
+        "alt": "Площадь Бадинь, Ханой, 2 сентября 1945 года. Национальный контекст Августовской революции; сама Thanh niên Tiền phong действовала прежде всего в Кохинхине.",
+        "caption": "Площадь Бадинь, Ханой, 2 сентября 1945 года. Национальный контекст Августовской революции; сама Thanh niên Tiền phong действовала прежде всего в Кохинхине.",
+        "year": "1945",
+        "author": "неизвестен",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ba_Dinh_Square_September_2nd%2C_1945.jpg"
+      }
+    ]
+  },
+  "korean-national-youth": {
+    "images": [
+      {
+        "src": "/media/movements/korean-national-youth/hero.webp",
+        "alt": "Ли Бомсок и Чан Чун Ха, Шанхай, 16 августа 1945 года — до основания ассоциации, но тот же политический актор.",
+        "caption": "Ли Бомсок и Чан Чун Ха, Шанхай, 16 августа 1945 года — до основания ассоциации, но тот же политический актор.",
+        "year": "1945",
+        "author": "неизвестен",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lee_Beom-seok_and_Chang_Jun-ha_1945-August-16.jpg"
+      }
+    ]
+  },
+  "seri-thai": {
+    "images": [
+      {
+        "src": "/media/movements/seri-thai/hero.webp",
+        "alt": "Участники Seri Thai на параде по Ратчадамнен в Бангкоке после конца войны, 1945 год. Широкое движение, не специализированный молодёжный союз.",
+        "caption": "Участники Seri Thai на параде по Ратчадамнен в Бангкоке после конца войны, 1945 год. Широкое движение, не специализированный молодёжный союз.",
+        "year": "1945",
+        "author": "неизвестен",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Free_Thai_Movement_1945.jpg"
+      },
+      {
+        "src": "/media/movements/seri-thai/01.webp",
+        "alt": "Знак Free Thai. Вспомогательный геральдический кадр к парадному фото 1945 года.",
+        "caption": "Знак Free Thai. Вспомогательный геральдический кадр к парадному фото 1945 года.",
+        "author": "Pi@k",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Free_Thai_insignia.svg"
+      }
+    ]
+  },
+  "eureka-youth-league": {
+    "images": [
+      {
+        "src": "/media/movements/eureka-youth-league/hero.webp",
+        "alt": "Флаг Eureka Stockade (1854). Лига взяла это имя в 1941 году как австралийский демократический миф. Это не фотография членов EYL.",
+        "caption": "Флаг Eureka Stockade (1854). Лига взяла это имя в 1941 году как австралийский демократический миф. Это не фотография членов EYL.",
+        "author": "Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eureka_Flag.svg"
+      }
+    ]
+  },
+  "gadna": {
+    "images": [
+      {
+        "src": "/media/movements/gadna/hero.webp",
+        "alt": "Молодые члены «Хаганы» идут строем в Изреэльской долине близ Афулы. Допризывная и оборонная среда, из которой выросла Gadna; кадр не подписан как учебный взвод Gadna.",
+        "caption": "Молодые члены «Хаганы» идут строем в Изреэльской долине близ Афулы. Допризывная и оборонная среда, из которой выросла Gadna; кадр не подписан как учебный взвод Gadna.",
+        "author": "Government Press Office / Wikimedia Commons",
+        "license": "см. страницу файла",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_GROUP_OF_YOUNG_%22HAGANA%22_MEMBERS_MARCHING_IN_THE_JEZREEL_VALLEY_NEAR_AFULA._%D7%97%D7%91%D7%A8%D7%99_%D7%94%D7%92%D7%A0%D7%94_%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D_%D7%A6%D7%95%D7%A2%D7%93%D7%99%D7%9D_%D7%91%D7%A2%D7%9E%D7%A7_%D7%99%D7%96%D7%A8%D7%A2%D7%90%D7%9C%2C_%D7%9C%D7%99%D7%93_%D7%A2%D7%A4%D7%95%D7%9C%D7%94.D40-041.jpg"
+      }
+    ]
+  },
+  "young-egypt": {
+    "images": [
+      {
+        "src": "/media/movements/young-egypt/hero.webp",
+        "alt": "Ahmed Hussein - Young Egypt party 1933",
+        "caption": "Ahmed Hussein - Young Egypt party 1933",
+        "year": "1933",
+        "author": "Unknown authorUnknown author",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAhmed_Hussein_-_Young_Egypt_party_1933.jpg"
+      },
+      {
+        "src": "/media/movements/young-egypt/01.webp",
+        "alt": "Al-Ishtrakeyia Journal (Young Egypt party) 1951",
+        "caption": "Al-Ishtrakeyia Journal (Young Egypt party) 1951",
+        "year": "1951",
+        "author": "Unknown authorUnknown author",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAl-Ishtrakeyia_Journal_(Young_Egypt_party).jpg"
+      },
+      {
+        "src": "/media/movements/young-egypt/02.webp",
+        "alt": "Flag of the Young Egypt Party",
+        "caption": "Flag of the Young Egypt Party",
+        "year": "2024-06-22",
+        "author": "Wheatley2",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFlag_of_the_Young_Egypt_Party.svg"
+      }
+    ]
+  }
+}

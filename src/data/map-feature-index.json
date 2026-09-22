@@ -1,0 +1,1558 @@
+{
+  "snapshot": "1950-01-01",
+  "source": "CShapes 2.0 via OGC API / ETH Zurich International Conflict Research",
+  "license": "CC BY-NC-SA",
+  "citation": "Schvitz, Guy, Seraina Rüegger, Luc Girardin, Lars-Erik Cederman, Nils Weidmann, and Kristian Skrede Gleditsch. 2022. “Mapping the International System, 1886–2019: The CShapes 2.0 Dataset.” Journal of Conflict Resolution 66(1): 144–161.",
+  "generatedAt": "2026-09-21T20:30:57.405Z",
+  "featureCount": 172,
+  "features": [
+    {
+      "id": "681",
+      "fid": 523,
+      "name": "Aden",
+      "gwcode": null,
+      "capname": "Aden",
+      "gwsdate": "1937-04-01",
+      "gwedate": "1962-04-03"
+    },
+    {
+      "id": "700",
+      "fid": 536,
+      "name": "Afghanistan",
+      "gwcode": null,
+      "capname": "Kabul",
+      "gwsdate": "1919-05-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "3",
+      "fid": 4,
+      "name": "Alaska",
+      "gwcode": null,
+      "capname": "Juneau",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1959-01-02"
+    },
+    {
+      "id": "339",
+      "fid": 123,
+      "name": "Albania",
+      "gwcode": null,
+      "capname": "Tirane",
+      "gwsdate": "1920-02-11",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "615",
+      "fid": 455,
+      "name": "Algeria",
+      "gwcode": null,
+      "capname": "Algiers",
+      "gwsdate": "1919-09-12",
+      "gwedate": "1962-07-04"
+    },
+    {
+      "id": "540",
+      "fid": 389,
+      "name": "Angola",
+      "gwcode": null,
+      "capname": "Luanda",
+      "gwsdate": "1905-05-30",
+      "gwedate": "1975-11-10"
+    },
+    {
+      "id": "160",
+      "fid": 71,
+      "name": "Argentina",
+      "gwcode": null,
+      "capname": "Buenos Aires",
+      "gwsdate": "1902-11-20",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "900",
+      "fid": 647,
+      "name": "Australia",
+      "gwcode": null,
+      "capname": "Canberra",
+      "gwsdate": "1927-05-09",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "305",
+      "fid": 103,
+      "name": "Austria",
+      "gwcode": null,
+      "capname": "Vienna",
+      "gwsdate": "1919-09-10",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "31",
+      "fid": 11,
+      "name": "Bahamas",
+      "gwcode": null,
+      "capname": "Nassau",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1973-07-09"
+    },
+    {
+      "id": "53",
+      "fid": 24,
+      "name": "Barbados",
+      "gwcode": null,
+      "capname": "Bridgetown",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1966-11-29"
+    },
+    {
+      "id": "211",
+      "fid": 77,
+      "name": "Belgium",
+      "gwcode": null,
+      "capname": "Brussels",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "80",
+      "fid": 29,
+      "name": "Belize",
+      "gwcode": null,
+      "capname": "Belize City",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1970-08-02"
+    },
+    {
+      "id": "434",
+      "fid": 242,
+      "name": "Benin",
+      "gwcode": null,
+      "capname": "Porto-Novo",
+      "gwsdate": "1898-06-14",
+      "gwedate": "1960-07-31"
+    },
+    {
+      "id": "760",
+      "fid": 575,
+      "name": "Bhutan",
+      "gwcode": null,
+      "capname": "Thimphu",
+      "gwsdate": "1949-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "145",
+      "fid": 63,
+      "name": "Bolivia",
+      "gwcode": null,
+      "capname": "La Paz",
+      "gwsdate": "1938-07-21",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "571",
+      "fid": 422,
+      "name": "Botswana",
+      "gwcode": null,
+      "capname": "Gaborone",
+      "gwsdate": "1895-11-16",
+      "gwedate": "1966-09-29"
+    },
+    {
+      "id": "140",
+      "fid": 58,
+      "name": "Brazil",
+      "gwcode": null,
+      "capname": "Rio de Janeiro",
+      "gwsdate": "1909-07-09",
+      "gwedate": "1960-04-20"
+    },
+    {
+      "id": "472",
+      "fid": 304,
+      "name": "British Cameroons",
+      "gwcode": null,
+      "capname": "Buea",
+      "gwsdate": "1922-07-20",
+      "gwedate": "1961-09-30"
+    },
+    {
+      "id": "521",
+      "fid": 370,
+      "name": "British Somaliland (Somaliland Republic)",
+      "gwcode": null,
+      "capname": "Berbera",
+      "gwsdate": "1897-04-14",
+      "gwedate": "1960-06-30"
+    },
+    {
+      "id": "462",
+      "fid": 293,
+      "name": "British Togoland",
+      "gwcode": null,
+      "capname": "Ho",
+      "gwsdate": "1922-07-20",
+      "gwedate": "1955-12-31"
+    },
+    {
+      "id": "835",
+      "fid": 627,
+      "name": "Brunei",
+      "gwcode": null,
+      "capname": "Bandar Seri Begawan",
+      "gwsdate": "1888-09-17",
+      "gwedate": "1983-12-31"
+    },
+    {
+      "id": "355",
+      "fid": 152,
+      "name": "Bulgaria",
+      "gwcode": null,
+      "capname": "Sofia",
+      "gwsdate": "1940-09-07",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "439",
+      "fid": 270,
+      "name": "Burkina Faso (Upper Volta)",
+      "gwcode": null,
+      "capname": "Ouagadougou",
+      "gwsdate": "1947-01-04",
+      "gwedate": "1960-08-04"
+    },
+    {
+      "id": "811",
+      "fid": 598,
+      "name": "Cambodia (Kampuchea)",
+      "gwcode": null,
+      "capname": "Phnom Penh",
+      "gwsdate": "1907-03-23",
+      "gwedate": "1953-11-08"
+    },
+    {
+      "id": "471",
+      "fid": 300,
+      "name": "Cameroon",
+      "gwcode": null,
+      "capname": "Yaounde",
+      "gwsdate": "1922-07-20",
+      "gwedate": "1959-12-31"
+    },
+    {
+      "id": "20",
+      "fid": 9,
+      "name": "Canada",
+      "gwcode": null,
+      "capname": "Ottawa",
+      "gwsdate": "1948-07-22",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "402",
+      "fid": 215,
+      "name": "Cape Verde",
+      "gwcode": null,
+      "capname": "Praia",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1975-07-04"
+    },
+    {
+      "id": "482",
+      "fid": 316,
+      "name": "Central African Republic",
+      "gwcode": null,
+      "capname": "Bangui",
+      "gwsdate": "1919-06-28",
+      "gwedate": "1960-08-12"
+    },
+    {
+      "id": "483",
+      "fid": 321,
+      "name": "Chad",
+      "gwcode": null,
+      "capname": "N'Djamena",
+      "gwsdate": "1920-03-17",
+      "gwedate": "1960-08-10"
+    },
+    {
+      "id": "155",
+      "fid": 68,
+      "name": "Chile",
+      "gwcode": null,
+      "capname": "Santiago",
+      "gwsdate": "1902-11-20",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "710",
+      "fid": 551,
+      "name": "China",
+      "gwcode": null,
+      "capname": "Beijing",
+      "gwsdate": "1949-12-08",
+      "gwedate": "1950-10-01"
+    },
+    {
+      "id": "100",
+      "fid": 40,
+      "name": "Colombia",
+      "gwcode": null,
+      "capname": "Bogota",
+      "gwsdate": "1922-03-24",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "581",
+      "fid": 432,
+      "name": "Comoros",
+      "gwcode": null,
+      "capname": "Moroni",
+      "gwsdate": "1946-10-27",
+      "gwedate": "1975-07-05"
+    },
+    {
+      "id": "484",
+      "fid": 328,
+      "name": "Congo",
+      "gwcode": null,
+      "capname": "Brazzaville",
+      "gwsdate": "1919-06-28",
+      "gwedate": "1960-08-14"
+    },
+    {
+      "id": "490",
+      "fid": 335,
+      "name": "Congo, Democratic Republic of (Zaire)",
+      "gwcode": null,
+      "capname": "Kinshasa (Léopoldville)",
+      "gwsdate": "1910-06-16",
+      "gwedate": "1960-06-29"
+    },
+    {
+      "id": "94",
+      "fid": 36,
+      "name": "Costa Rica",
+      "gwcode": null,
+      "capname": "San Jose",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "437",
+      "fid": 264,
+      "name": "Cote D'Ivoire",
+      "gwcode": null,
+      "capname": "Abidjan",
+      "gwsdate": "1947-01-04",
+      "gwedate": "1960-08-06"
+    },
+    {
+      "id": "40",
+      "fid": 15,
+      "name": "Cuba",
+      "gwcode": null,
+      "capname": "Havana",
+      "gwsdate": "1902-05-20",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "352",
+      "fid": 146,
+      "name": "Cyprus",
+      "gwcode": null,
+      "capname": "Nicosia",
+      "gwsdate": "1914-11-05",
+      "gwedate": "1960-08-15"
+    },
+    {
+      "id": "315",
+      "fid": 114,
+      "name": "Czechoslovakia",
+      "gwcode": null,
+      "capname": "Prague",
+      "gwsdate": "1947-02-10",
+      "gwedate": "1992-12-31"
+    },
+    {
+      "id": "390",
+      "fid": 210,
+      "name": "Denmark",
+      "gwcode": null,
+      "capname": "Copenhagen",
+      "gwsdate": "1920-02-10",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "522",
+      "fid": 372,
+      "name": "Djibouti",
+      "gwcode": null,
+      "capname": "Djibouti",
+      "gwsdate": "1900-01-24",
+      "gwedate": "1977-06-26"
+    },
+    {
+      "id": "42",
+      "fid": 19,
+      "name": "Dominican Republic",
+      "gwcode": null,
+      "capname": "Santo Domingo",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "6812",
+      "fid": 701,
+      "name": "East Aden Protectorate",
+      "gwcode": null,
+      "capname": "Mukalla",
+      "gwsdate": "1937-04-01",
+      "gwedate": "1962-04-03"
+    },
+    {
+      "id": "860",
+      "fid": 644,
+      "name": "East Timor",
+      "gwcode": null,
+      "capname": "Dili",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1976-07-16"
+    },
+    {
+      "id": "130",
+      "fid": 51,
+      "name": "Ecuador",
+      "gwcode": null,
+      "capname": "Quito",
+      "gwsdate": "1942-01-29",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "651",
+      "fid": 493,
+      "name": "Egypt",
+      "gwcode": null,
+      "capname": "Cairo",
+      "gwsdate": "1925-12-06",
+      "gwedate": "1967-06-09"
+    },
+    {
+      "id": "92",
+      "fid": 34,
+      "name": "El Salvador",
+      "gwcode": null,
+      "capname": "San Salvador",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "411",
+      "fid": 222,
+      "name": "Equatorial Guinea",
+      "gwcode": null,
+      "capname": "Malabo",
+      "gwsdate": "1900-06-27",
+      "gwedate": "1968-10-11"
+    },
+    {
+      "id": "531",
+      "fid": 384,
+      "name": "Eritrea",
+      "gwcode": null,
+      "capname": "Asmara",
+      "gwsdate": "1941-05-19",
+      "gwedate": "1952-09-14"
+    },
+    {
+      "id": "530",
+      "fid": 378,
+      "name": "Ethiopia",
+      "gwcode": null,
+      "capname": "Addis Ababa",
+      "gwsdate": "1907-12-06",
+      "gwedate": "1952-09-14"
+    },
+    {
+      "id": "950",
+      "fid": 673,
+      "name": "Fiji",
+      "gwcode": null,
+      "capname": "Suva",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1970-10-09"
+    },
+    {
+      "id": "375",
+      "fid": 205,
+      "name": "Finland",
+      "gwcode": null,
+      "capname": "Helsinki",
+      "gwsdate": "1940-03-12",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "220",
+      "fid": 80,
+      "name": "France",
+      "gwcode": null,
+      "capname": "Paris",
+      "gwsdate": "1919-06-28",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "120",
+      "fid": 49,
+      "name": "French Guyana",
+      "gwcode": null,
+      "capname": "Cayenne",
+      "gwsdate": "1946-03-19",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "960",
+      "fid": 675,
+      "name": "French Polynesia",
+      "gwcode": null,
+      "capname": "Pape'ete",
+      "gwsdate": "1903-05-19",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "481",
+      "fid": 312,
+      "name": "Gabon",
+      "gwcode": null,
+      "capname": "Libreville",
+      "gwsdate": "1919-06-28",
+      "gwedate": "1960-08-16"
+    },
+    {
+      "id": "420",
+      "fid": 224,
+      "name": "Gambia",
+      "gwcode": null,
+      "capname": "Banjul",
+      "gwsdate": "1889-08-10",
+      "gwedate": "1965-02-17"
+    },
+    {
+      "id": "6511",
+      "fid": 698,
+      "name": "Gaza",
+      "gwcode": null,
+      "capname": "Gaza",
+      "gwsdate": "1948-05-14",
+      "gwedate": "1967-06-09"
+    },
+    {
+      "id": "265",
+      "fid": 92,
+      "name": "German Democratic Republic",
+      "gwcode": null,
+      "capname": "East Berlin",
+      "gwsdate": "1949-10-05",
+      "gwedate": "1990-10-02"
+    },
+    {
+      "id": "260",
+      "fid": 89,
+      "name": "German Federal Republic",
+      "gwcode": null,
+      "capname": "Bonn",
+      "gwsdate": "1949-09-21",
+      "gwedate": "1990-10-02"
+    },
+    {
+      "id": "452",
+      "fid": 280,
+      "name": "Ghana",
+      "gwcode": null,
+      "capname": "Accra",
+      "gwsdate": "1898-06-14",
+      "gwedate": "1956-03-05"
+    },
+    {
+      "id": "350",
+      "fid": 145,
+      "name": "Greece",
+      "gwcode": null,
+      "capname": "Athens",
+      "gwsdate": "1919-11-27",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "65",
+      "fid": 26,
+      "name": "Guadeloupe",
+      "gwcode": null,
+      "capname": "Basse-Terre",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "90",
+      "fid": 32,
+      "name": "Guatemala",
+      "gwcode": null,
+      "capname": "Guatemala City",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "438",
+      "fid": 267,
+      "name": "Guinea",
+      "gwcode": null,
+      "capname": "Conakry",
+      "gwsdate": "1894-01-01",
+      "gwedate": "1958-10-01"
+    },
+    {
+      "id": "404",
+      "fid": 219,
+      "name": "Guinea-Bissau",
+      "gwcode": null,
+      "capname": "Bissau",
+      "gwsdate": "1942-07-01",
+      "gwedate": "1974-09-09"
+    },
+    {
+      "id": "110",
+      "fid": 42,
+      "name": "Guyana",
+      "gwcode": null,
+      "capname": "Georgetown",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1966-05-25"
+    },
+    {
+      "id": "41",
+      "fid": 18,
+      "name": "Haiti",
+      "gwcode": null,
+      "capname": "Port-au-Prince",
+      "gwsdate": "1934-08-15",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "4",
+      "fid": 5,
+      "name": "Hawaii",
+      "gwcode": null,
+      "capname": "Honolulu",
+      "gwsdate": "1898-07-06",
+      "gwedate": "1959-08-20"
+    },
+    {
+      "id": "91",
+      "fid": 33,
+      "name": "Honduras",
+      "gwcode": null,
+      "capname": "Tegucigalpa",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "310",
+      "fid": 109,
+      "name": "Hungary",
+      "gwcode": null,
+      "capname": "Budapest",
+      "gwsdate": "1947-02-10",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "395",
+      "fid": 214,
+      "name": "Iceland",
+      "gwcode": null,
+      "capname": "Reykjavik",
+      "gwsdate": "1944-06-17",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "750",
+      "fid": 572,
+      "name": "India",
+      "gwcode": null,
+      "capname": "New Delhi (Delhi)",
+      "gwsdate": "1949-01-05",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "850",
+      "fid": 637,
+      "name": "Indonesia",
+      "gwcode": null,
+      "capname": "Jakarta",
+      "gwsdate": "1949-12-29",
+      "gwedate": "1969-09-16"
+    },
+    {
+      "id": "630",
+      "fid": 474,
+      "name": "Iran (Persia)",
+      "gwcode": null,
+      "capname": "Tehran",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "645",
+      "fid": 488,
+      "name": "Iraq",
+      "gwcode": null,
+      "capname": "Baghdad",
+      "gwsdate": "1932-10-03",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "205",
+      "fid": 75,
+      "name": "Ireland",
+      "gwcode": null,
+      "capname": "Dublin",
+      "gwsdate": "1921-12-06",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "666",
+      "fid": 512,
+      "name": "Israel",
+      "gwcode": null,
+      "capname": "Jerusalem",
+      "gwsdate": "1948-05-14",
+      "gwedate": "1967-06-09"
+    },
+    {
+      "id": "5200",
+      "fid": 690,
+      "name": "Italian Somaliland",
+      "gwcode": null,
+      "capname": "Mogadishu",
+      "gwsdate": "1941-03-20",
+      "gwedate": "1950-03-31"
+    },
+    {
+      "id": "325",
+      "fid": 118,
+      "name": "Italy/Sardinia",
+      "gwcode": null,
+      "capname": "Rome",
+      "gwsdate": "1919-09-10",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "51",
+      "fid": 20,
+      "name": "Jamaica",
+      "gwcode": null,
+      "capname": "Kingston",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1962-08-05"
+    },
+    {
+      "id": "740",
+      "fid": 564,
+      "name": "Japan",
+      "gwcode": null,
+      "capname": "Tokyo",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "663",
+      "fid": 508,
+      "name": "Jordan",
+      "gwcode": null,
+      "capname": "Amman",
+      "gwsdate": "1946-05-25",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "501",
+      "fid": 352,
+      "name": "Kenya",
+      "gwcode": null,
+      "capname": "Nairobi",
+      "gwsdate": "1926-09-27",
+      "gwedate": "1963-12-11"
+    },
+    {
+      "id": "731",
+      "fid": 561,
+      "name": "Korea, People's Republic of",
+      "gwcode": null,
+      "capname": "Pyongyang",
+      "gwsdate": "1948-09-09",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "732",
+      "fid": 563,
+      "name": "Korea, Republic of",
+      "gwcode": null,
+      "capname": "Seoul",
+      "gwsdate": "1948-08-15",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "812",
+      "fid": 601,
+      "name": "Laos",
+      "gwcode": null,
+      "capname": "Vientiane",
+      "gwsdate": "1896-01-15",
+      "gwedate": "1954-04-30"
+    },
+    {
+      "id": "660",
+      "fid": 503,
+      "name": "Lebanon",
+      "gwcode": null,
+      "capname": "Beirut",
+      "gwsdate": "1944-11-22",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "570",
+      "fid": 418,
+      "name": "Lesotho",
+      "gwcode": null,
+      "capname": "Maseru",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1966-10-03"
+    },
+    {
+      "id": "450",
+      "fid": 273,
+      "name": "Liberia",
+      "gwcode": null,
+      "capname": "Monrovia",
+      "gwsdate": "1892-12-08",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "620",
+      "fid": 464,
+      "name": "Libya",
+      "gwcode": null,
+      "capname": "Tripoli",
+      "gwsdate": "1949-11-21",
+      "gwedate": "1951-12-23"
+    },
+    {
+      "id": "212",
+      "fid": 78,
+      "name": "Luxembourg",
+      "gwcode": null,
+      "capname": "Luxembourg",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "580",
+      "fid": 430,
+      "name": "Madagascar (Malagasy)",
+      "gwcode": null,
+      "capname": "Antananarivo",
+      "gwsdate": "1946-10-27",
+      "gwedate": "1960-06-25"
+    },
+    {
+      "id": "553",
+      "fid": 402,
+      "name": "Malawi",
+      "gwcode": null,
+      "capname": "Lilongwe",
+      "gwsdate": "1891-06-10",
+      "gwedate": "1953-07-31"
+    },
+    {
+      "id": "820",
+      "fid": 610,
+      "name": "Malaysia",
+      "gwcode": null,
+      "capname": "Kuala Lumpur",
+      "gwsdate": "1946-04-01",
+      "gwedate": "1957-08-30"
+    },
+    {
+      "id": "781",
+      "fid": 587,
+      "name": "Maldives",
+      "gwcode": null,
+      "capname": "Male",
+      "gwsdate": "1887-12-16",
+      "gwedate": "1965-05-25"
+    },
+    {
+      "id": "432",
+      "fid": 234,
+      "name": "Mali",
+      "gwcode": null,
+      "capname": "Bamako",
+      "gwsdate": "1947-01-04",
+      "gwedate": "1959-04-03"
+    },
+    {
+      "id": "338",
+      "fid": 119,
+      "name": "Malta",
+      "gwcode": null,
+      "capname": "Valletta",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1964-09-20"
+    },
+    {
+      "id": "66",
+      "fid": 27,
+      "name": "Martinique",
+      "gwcode": null,
+      "capname": "Fort-de-France",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "435",
+      "fid": 249,
+      "name": "Mauritania",
+      "gwcode": null,
+      "capname": "Nouakchott",
+      "gwsdate": "1944-07-05",
+      "gwedate": "1960-11-27"
+    },
+    {
+      "id": "590",
+      "fid": 435,
+      "name": "Mauritius",
+      "gwcode": null,
+      "capname": "Port Louis",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1968-03-11"
+    },
+    {
+      "id": "70",
+      "fid": 28,
+      "name": "Mexico",
+      "gwcode": null,
+      "capname": "Mexico City",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "712",
+      "fid": 555,
+      "name": "Mongolia",
+      "gwcode": null,
+      "capname": "Ulan Bator",
+      "gwsdate": "1921-03-13",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "600",
+      "fid": 441,
+      "name": "Morocco",
+      "gwcode": null,
+      "capname": "Rabat",
+      "gwsdate": "1912-11-27",
+      "gwedate": "1956-03-01"
+    },
+    {
+      "id": "541",
+      "fid": 392,
+      "name": "Mozambique",
+      "gwcode": null,
+      "capname": "Maputo",
+      "gwsdate": "1891-06-11",
+      "gwedate": "1975-06-24"
+    },
+    {
+      "id": "775",
+      "fid": 583,
+      "name": "Myanmar (Burma)",
+      "gwcode": null,
+      "capname": "Rangoon",
+      "gwsdate": "1948-01-04",
+      "gwedate": "2005-11-05"
+    },
+    {
+      "id": "565",
+      "fid": 415,
+      "name": "Namibia",
+      "gwcode": null,
+      "capname": "Windhoek",
+      "gwsdate": "1920-12-17",
+      "gwedate": "1966-10-26"
+    },
+    {
+      "id": "790",
+      "fid": 589,
+      "name": "Nepal",
+      "gwcode": null,
+      "capname": "Kathmandu",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "210",
+      "fid": 76,
+      "name": "Netherlands",
+      "gwcode": null,
+      "capname": "Amsterdam",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "930",
+      "fid": 668,
+      "name": "New Caledonia and Dependencies",
+      "gwcode": null,
+      "capname": "Nouméa",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "920",
+      "fid": 667,
+      "name": "New Zealand",
+      "gwcode": null,
+      "capname": "Wellington",
+      "gwsdate": "1907-09-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "93",
+      "fid": 35,
+      "name": "Nicaragua",
+      "gwcode": null,
+      "capname": "Managua",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "436",
+      "fid": 256,
+      "name": "Niger",
+      "gwcode": null,
+      "capname": "Niamey",
+      "gwsdate": "1947-01-04",
+      "gwedate": "1960-08-02"
+    },
+    {
+      "id": "475",
+      "fid": 305,
+      "name": "Nigeria",
+      "gwcode": null,
+      "capname": "Abuja",
+      "gwsdate": "1914-01-01",
+      "gwedate": "1960-09-30"
+    },
+    {
+      "id": "385",
+      "fid": 208,
+      "name": "Norway",
+      "gwcode": null,
+      "capname": "Oslo",
+      "gwsdate": "1905-08-26",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "698",
+      "fid": 531,
+      "name": "Oman",
+      "gwcode": null,
+      "capname": "Masqat",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1990-02-22"
+    },
+    {
+      "id": "770",
+      "fid": 577,
+      "name": "Pakistan",
+      "gwcode": null,
+      "capname": "Karachi",
+      "gwsdate": "1949-01-05",
+      "gwedate": "1959-09-30"
+    },
+    {
+      "id": "95",
+      "fid": 37,
+      "name": "Panama",
+      "gwcode": null,
+      "capname": "Panama City",
+      "gwsdate": "1903-11-03",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "910",
+      "fid": 654,
+      "name": "Papua New Guinea",
+      "gwcode": null,
+      "capname": "Port Moresby",
+      "gwsdate": "1949-07-01",
+      "gwedate": "1975-09-15"
+    },
+    {
+      "id": "150",
+      "fid": 65,
+      "name": "Paraguay",
+      "gwcode": null,
+      "capname": "Asuncion",
+      "gwsdate": "1938-07-21",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "135",
+      "fid": 55,
+      "name": "Peru",
+      "gwcode": null,
+      "capname": "Lima",
+      "gwsdate": "1942-01-29",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "840",
+      "fid": 632,
+      "name": "Philippines",
+      "gwcode": null,
+      "capname": "Quezon City",
+      "gwsdate": "1948-07-17",
+      "gwedate": "1976-05-28"
+    },
+    {
+      "id": "290",
+      "fid": 98,
+      "name": "Poland",
+      "gwcode": null,
+      "capname": "Warsaw",
+      "gwsdate": "1945-05-08",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "235",
+      "fid": 83,
+      "name": "Portugal",
+      "gwcode": null,
+      "capname": "Lisbon",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "6",
+      "fid": 7,
+      "name": "Puerto Rico",
+      "gwcode": null,
+      "capname": "San Juan",
+      "gwsdate": "1898-12-10",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "694",
+      "fid": 526,
+      "name": "Qatar",
+      "gwcode": null,
+      "capname": "Doha",
+      "gwsdate": "1916-11-03",
+      "gwedate": "1971-09-02"
+    },
+    {
+      "id": "585",
+      "fid": 434,
+      "name": "Reunion",
+      "gwcode": null,
+      "capname": "Saint-Denis",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "360",
+      "fid": 164,
+      "name": "Rumania",
+      "gwcode": null,
+      "capname": "Bukarest",
+      "gwsdate": "1940-09-07",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "365",
+      "fid": 181,
+      "name": "Russia (Soviet Union)",
+      "gwcode": null,
+      "capname": "Moscow",
+      "gwsdate": "1945-08-15",
+      "gwedate": "1991-08-24"
+    },
+    {
+      "id": "515",
+      "fid": 365,
+      "name": "Rwanda-Urundi",
+      "gwcode": null,
+      "capname": "Usumbura",
+      "gwsdate": "1922-07-20",
+      "gwedate": "1962-06-30"
+    },
+    {
+      "id": "823",
+      "fid": 620,
+      "name": "Sabah (North Borneo)",
+      "gwcode": null,
+      "capname": "Sandakan (Elopura)",
+      "gwsdate": "1946-07-15",
+      "gwedate": "1963-09-15"
+    },
+    {
+      "id": "824",
+      "fid": 623,
+      "name": "Sarawak",
+      "gwcode": null,
+      "capname": "Kuching",
+      "gwsdate": "1946-07-01",
+      "gwedate": "1963-09-15"
+    },
+    {
+      "id": "670",
+      "fid": 516,
+      "name": "Saudi Arabia",
+      "gwcode": null,
+      "capname": "Riyadh",
+      "gwsdate": "1935-01-01",
+      "gwedate": "2000-06-11"
+    },
+    {
+      "id": "433",
+      "fid": 238,
+      "name": "Senegal",
+      "gwcode": null,
+      "capname": "Dakar",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1959-04-03"
+    },
+    {
+      "id": "451",
+      "fid": 276,
+      "name": "Sierra Leone",
+      "gwcode": null,
+      "capname": "Freetown",
+      "gwsdate": "1895-08-24",
+      "gwedate": "1961-04-26"
+    },
+    {
+      "id": "830",
+      "fid": 625,
+      "name": "Singapore",
+      "gwcode": null,
+      "capname": "Singapore City",
+      "gwsdate": "1946-04-01",
+      "gwedate": "1962-12-31"
+    },
+    {
+      "id": "940",
+      "fid": 670,
+      "name": "Solomon Islands",
+      "gwcode": null,
+      "capname": "Tulaghi",
+      "gwsdate": "1899-11-14",
+      "gwedate": "1951-12-31"
+    },
+    {
+      "id": "560",
+      "fid": 405,
+      "name": "South Africa",
+      "gwcode": null,
+      "capname": "Pretoria",
+      "gwsdate": "1910-05-31",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "230",
+      "fid": 82,
+      "name": "Spain",
+      "gwcode": null,
+      "capname": "Madrid",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "602",
+      "fid": 447,
+      "name": "Spanish Morocco",
+      "gwcode": null,
+      "capname": "Tetuan",
+      "gwsdate": "1912-11-27",
+      "gwedate": "1956-04-06"
+    },
+    {
+      "id": "610",
+      "fid": 451,
+      "name": "Spanish West Africa",
+      "gwcode": null,
+      "capname": "Villa Cisneros",
+      "gwsdate": "1912-11-27",
+      "gwedate": "1958-10-09"
+    },
+    {
+      "id": "780",
+      "fid": 586,
+      "name": "Sri Lanka (Ceylon)",
+      "gwcode": null,
+      "capname": "Colombo",
+      "gwsdate": "1948-02-04",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "625",
+      "fid": 470,
+      "name": "Sudan",
+      "gwcode": null,
+      "capname": "Khartoum",
+      "gwsdate": "1934-07-20",
+      "gwedate": "1955-12-31"
+    },
+    {
+      "id": "115",
+      "fid": 44,
+      "name": "Surinam",
+      "gwcode": null,
+      "capname": "Paramaribo",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1954-12-14"
+    },
+    {
+      "id": "572",
+      "fid": 425,
+      "name": "Swaziland (Eswatini)",
+      "gwcode": null,
+      "capname": "Mbabane",
+      "gwsdate": "1902-08-07",
+      "gwedate": "1968-09-05"
+    },
+    {
+      "id": "380",
+      "fid": 207,
+      "name": "Sweden",
+      "gwcode": null,
+      "capname": "Stockholm",
+      "gwsdate": "1905-08-26",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "225",
+      "fid": 81,
+      "name": "Switzerland",
+      "gwcode": null,
+      "capname": "Bern",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "652",
+      "fid": 499,
+      "name": "Syria",
+      "gwcode": null,
+      "capname": "Damascus",
+      "gwsdate": "1946-01-01",
+      "gwedate": "1967-06-09"
+    },
+    {
+      "id": "713",
+      "fid": 557,
+      "name": "Taiwan",
+      "gwcode": null,
+      "capname": "Taipei",
+      "gwsdate": "1949-12-08",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "510",
+      "fid": 358,
+      "name": "Tanzania (Tanganyika)",
+      "gwcode": null,
+      "capname": "Dodoma",
+      "gwsdate": "1922-07-20",
+      "gwedate": "1961-12-08"
+    },
+    {
+      "id": "800",
+      "fid": 594,
+      "name": "Thailand",
+      "gwcode": null,
+      "capname": "Bangkok",
+      "gwsdate": "1909-03-10",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "711",
+      "fid": 554,
+      "name": "Tibet",
+      "gwcode": null,
+      "capname": "Lhasa",
+      "gwsdate": "1914-07-03",
+      "gwedate": "1950-10-01"
+    },
+    {
+      "id": "461",
+      "fid": 291,
+      "name": "Togo",
+      "gwcode": null,
+      "capname": "Lome",
+      "gwsdate": "1922-07-20",
+      "gwedate": "1960-04-26"
+    },
+    {
+      "id": "52",
+      "fid": 22,
+      "name": "Trinidad and Tobago",
+      "gwcode": null,
+      "capname": "Port-of-Spain",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1962-08-30"
+    },
+    {
+      "id": "616",
+      "fid": 457,
+      "name": "Tunisia",
+      "gwcode": null,
+      "capname": "Tunis",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1955-12-31"
+    },
+    {
+      "id": "640",
+      "fid": 483,
+      "name": "Turkey (Ottoman Empire)",
+      "gwcode": null,
+      "capname": "Ankara",
+      "gwsdate": "1923-10-14",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "500",
+      "fid": 341,
+      "name": "Uganda",
+      "gwcode": null,
+      "capname": "Kampala",
+      "gwsdate": "1926-09-27",
+      "gwedate": "1962-10-08"
+    },
+    {
+      "id": "696",
+      "fid": 529,
+      "name": "United Arab Emirates",
+      "gwcode": null,
+      "capname": "Abu Dhabi",
+      "gwsdate": "1913-07-29",
+      "gwedate": "1971-12-01"
+    },
+    {
+      "id": "200",
+      "fid": 74,
+      "name": "United Kingdom",
+      "gwcode": null,
+      "capname": "London",
+      "gwsdate": "1921-12-06",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "2",
+      "fid": 1,
+      "name": "United States of America",
+      "gwcode": null,
+      "capname": "Washington",
+      "gwsdate": "1886-01-01",
+      "gwedate": "1959-01-02"
+    },
+    {
+      "id": "165",
+      "fid": 72,
+      "name": "Uruguay",
+      "gwcode": null,
+      "capname": "Montevideo",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "101",
+      "fid": 41,
+      "name": "Venezuela",
+      "gwcode": null,
+      "capname": "Caracas",
+      "gwsdate": "1886-01-01",
+      "gwedate": "2019-12-31"
+    },
+    {
+      "id": "815",
+      "fid": 606,
+      "name": "Vietnam (Annam/Cochin China/Tonkin)",
+      "gwcode": null,
+      "capname": "Hue",
+      "gwsdate": "1893-10-03",
+      "gwedate": "1954-04-30"
+    },
+    {
+      "id": "6631",
+      "fid": 699,
+      "name": "West Bank",
+      "gwcode": null,
+      "capname": "East Jerusalem",
+      "gwsdate": "1948-05-14",
+      "gwedate": "1967-06-09"
+    },
+    {
+      "id": "851",
+      "fid": 641,
+      "name": "West Irian (Dutch New Guinea)",
+      "gwcode": null,
+      "capname": "Hollandia",
+      "gwsdate": "1949-12-29",
+      "gwedate": "1962-08-14"
+    },
+    {
+      "id": "678",
+      "fid": 519,
+      "name": "Yemen (Arab Republic of Yemen)",
+      "gwcode": null,
+      "capname": "Sana'a",
+      "gwsdate": "1934-06-14",
+      "gwedate": "1990-05-21"
+    },
+    {
+      "id": "345",
+      "fid": 137,
+      "name": "Yugoslavia",
+      "gwcode": null,
+      "capname": "Belgrade",
+      "gwsdate": "1920-06-04",
+      "gwedate": "1991-11-19"
+    },
+    {
+      "id": "551",
+      "fid": 395,
+      "name": "Zambia",
+      "gwcode": null,
+      "capname": "Lusaka",
+      "gwsdate": "1911-08-18",
+      "gwedate": "1953-07-31"
+    },
+    {
+      "id": "511",
+      "fid": 362,
+      "name": "Zanzibar",
+      "gwcode": null,
+      "capname": "Zanzibar City",
+      "gwsdate": "1895-07-01",
+      "gwedate": "1963-12-18"
+    },
+    {
+      "id": "552",
+      "fid": 399,
+      "name": "Zimbabwe (Rhodesia)",
+      "gwcode": null,
+      "capname": "Harare",
+      "gwsdate": "1900-01-29",
+      "gwedate": "1953-07-31"
+    }
+  ]
+}

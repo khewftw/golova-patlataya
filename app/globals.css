@@ -1,26 +1,124 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --paper: #f3ead8;
+  --paper-deep: #e7d8be;
+  --ink: #1c1612;
+  --ink-soft: #3d342c;
+  --muted: #7a7166;
+  --rule: color-mix(in srgb, var(--ink) 16%, transparent);
+  --accent: #7c2d2d;
+  --accent-strong: #5c1c1c;
+  --accent-soft: #c46a4a;
+  --map-sea: #c4b69a;
+  --map-land: #efe3cf;
+  --map-interactive: #c48a4a;
+  --map-hover: #c45c3e;
+  --map-selected: #8b2e24;
+  --map-stroke: #3a322a;
+  --backdrop: color-mix(in srgb, var(--ink) 55%, transparent);
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-paper: var(--paper);
+  --color-paper-deep: var(--paper-deep);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-strong);
+  --color-map-sea: var(--map-sea);
+  --color-map-land: var(--map-land);
+  --color-map-interactive: var(--map-interactive);
+  --color-map-hover: var(--map-hover);
+  --color-map-selected: var(--map-selected);
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html,
+body {
+  background: var(--paper);
+  color: var(--ink);
+  min-height: 100%;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), "Source Sans 3", sans-serif;
+}
+
+body::before {
+  content: "";
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  opacity: 0.12;
+  background-image:
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.45'/%3E%3C/svg%3E");
+}
+
+h1,
+h2,
+h3,
+.font-display {
+  font-family: var(--font-display), "Source Serif 4", serif;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--accent) 28%, var(--paper));
+}
+
+.country-path {
+  stroke: var(--map-stroke);
+  stroke-width: 0.55;
+  stroke-linejoin: round;
+  transition:
+    fill 160ms ease,
+    stroke 160ms ease,
+    stroke-width 160ms ease;
+}
+
+.country-path.is-muted {
+  fill: var(--map-land);
+  cursor: default;
+}
+
+.country-path.is-interactive {
+  fill: var(--map-interactive);
+  cursor: pointer;
+}
+
+.country-path.is-interactive:hover,
+.country-path.is-hovered {
+  fill: var(--map-hover);
+  stroke: var(--accent-strong);
+  stroke-width: 0.85;
+}
+
+.country-path.is-selected {
+  fill: var(--map-selected);
+  stroke: var(--accent-strong);
+  stroke-width: 1;
+}
+
+.country-path:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.atlas-grid {
+  background-image:
+    linear-gradient(to right, color-mix(in srgb, var(--ink) 7%, transparent) 1px, transparent 1px),
+    linear-gradient(to bottom, color-mix(in srgb, var(--ink) 7%, transparent) 1px, transparent 1px);
+  background-size: 72px 72px;
+}
+
+.gallery-row {
+  scroll-snap-type: x mandatory;
+  scrollbar-width: thin;
+}
+
+.gallery-row > * {
+  scroll-snap-align: start;
 }
