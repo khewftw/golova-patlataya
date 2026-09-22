@@ -93,6 +93,22 @@
         "author": "материал статьи",
         "license": "локальный архив",
         "sourceUrl": "https://www.dw.com/en/swing-youth-in-nazi-germany-jazz-was-an-act-of-defiance/a-77143547"
+      },
+      {
+        "src": "/media/movements/swing-youth/hero.webp",
+        "alt": "Табличка «Swinging tanzen verboten». Формула запрета свинга, связанная с культурной политикой рейха.",
+        "caption": "Табличка «Swinging tanzen verboten». Формула запрета свинга, связанная с культурной политикой рейха.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/swing-youth/hero.webp"
+      },
+      {
+        "src": "/media/movements/swing-youth/01.webp",
+        "alt": "Кадр из папки Swing Jugend.",
+        "caption": "Кадр из папки Swing Jugend.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/swing-youth/01.webp"
       }
     ]
   },
@@ -443,12 +459,22 @@
   "canadian-youth-congress": {
     "images": [
       {
+        "src": "/media/movements/canadian-youth-congress/01.webp",
+        "alt": "Групповой снимок съезда: First C.C.F. National Convention, Реджайна, 19–21 июля 1933 года. Соседняя левая среда Канады, не зал самого Youth Congress.",
+        "caption": "Групповой снимок съезда: First C.C.F. National Convention, Реджайна, 19–21 июля 1933 года. Соседняя левая среда Канады, не зал самого Youth Congress.",
+        "year": "1933",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/canadian-youth-congress/01.webp"
+      },
+      {
         "src": "/media/movements/canadian-youth-congress/hero.webp",
-        "alt": "Канадская студенческая и школьная среда первой половины XX века. Точная атрибуция кадра требует ручной проверки.",
-        "caption": "Канадская студенческая и школьная среда первой половины XX века. Точная атрибуция кадра требует ручной проверки.",
-        "author": "Wikimedia Commons",
-        "license": "см. страницу файла на Commons",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Canadian+students+1940s"
+        "alt": "Палата общин Канады, 10 марта 1938 года. Политический адрес, куда CYC пытался донести требования; это не групповой портрет делегатов конгресса.",
+        "caption": "Палата общин Канады, 10 марта 1938 года. Политический адрес, куда CYC пытался донести требования; это не групповой портрет делегатов конгресса.",
+        "year": "1938",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/canadian-youth-congress/hero.webp"
       }
     ]
   },
@@ -456,20 +482,27 @@
     "images": [
       {
         "src": "/media/movements/pachuco-united-states/hero.webp",
-        "alt": "Трое мужчин в вариациях zoot suit. Снимок Ollie Atkins; National Archives / Nixon Library. Стиль pachuco, а не членский союз.",
-        "caption": "Трое мужчин в вариациях zoot suit. Снимок Ollie Atkins; National Archives / Nixon Library. Стиль pachuco, а не членский союз.",
-        "year": "1946",
-        "author": "Ollie Atkins",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zoot_Suiters_On_Parade.jpg"
+        "alt": "Двое молодых людей в костюмах. Кадр из папки pachuco; водяной знак на снимке, точная атрибуция в файле не указана.",
+        "caption": "Двое молодых людей в костюмах. Кадр из папки pachuco; водяной знак на снимке, точная атрибуция в файле не указана.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/pachuco-united-states/hero.webp"
       },
       {
         "src": "/media/movements/pachuco-united-states/01.webp",
-        "alt": "Zoot suit, «мексиканский» drape style. Костюмный язык сцены, общий с приграничной Мексикой.",
-        "caption": "Zoot suit, «мексиканский» drape style. Костюмный язык сцены, общий с приграничной Мексикой.",
-        "author": "Wikimedia Commons",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zoot_Suit,_Mexican_%22drape_style%22.png"
+        "alt": "Дополнительный кадр из папки pachuco.",
+        "caption": "Дополнительный кадр из папки pachuco.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/pachuco-united-states/01.webp"
+      },
+      {
+        "src": "/media/movements/pachuco-united-states/02.webp",
+        "alt": "Дополнительный кадр из папки pachuco.",
+        "caption": "Дополнительный кадр из папки pachuco.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/pachuco-united-states/02.webp"
       }
     ]
   },
@@ -477,11 +510,27 @@
     "images": [
       {
         "src": "/media/movements/pachuco-mexico/hero.webp",
-        "alt": "Zoot suit в «мексиканском» drape style. Костюмный язык транснациональной сцены pachuco; не современный памятник Tin Tan.",
-        "caption": "Zoot suit в «мексиканском» drape style. Костюмный язык транснациональной сцены pachuco; не современный памятник Tin Tan.",
-        "author": "Wikimedia Commons",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zoot_Suit,_Mexican_%22drape_style%22.png"
+        "alt": "Трое молодых людей в костюмах, девушка в центре. Кадр из папки «pachuco Mexico».",
+        "caption": "Трое молодых людей в костюмах, девушка в центре. Кадр из папки «pachuco Mexico».",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/pachuco-mexico/hero.webp"
+      },
+      {
+        "src": "/media/movements/pachuco-mexico/01.webp",
+        "alt": "Дополнительный кадр из папки «pachuco Mexico».",
+        "caption": "Дополнительный кадр из папки «pachuco Mexico».",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/pachuco-mexico/01.webp"
+      },
+      {
+        "src": "/media/movements/pachuco-mexico/02.webp",
+        "alt": "Дополнительный кадр из папки «pachuco Mexico».",
+        "caption": "Дополнительный кадр из папки «pachuco Mexico».",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/pachuco-mexico/02.webp"
       }
     ]
   },
@@ -663,6 +712,114 @@
         "license": "CC0",
         "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFlag_of_the_Young_Egypt_Party.svg"
+      }
+    ]
+  },
+  "komsomol": {
+    "images": [
+      {
+        "src": "/media/movements/komsomol/hero.webp",
+        "alt": "Комсомольцы у переходящего знамени за участие в сельхозработах. Кадр из материалов статьи; точная дата в подписи не указана.",
+        "caption": "Комсомольцы у переходящего знамени за участие в сельхозработах. Кадр из материалов статьи; точная дата в подписи не указана.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/komsomol/hero.webp"
+      },
+      {
+        "src": "/media/movements/komsomol/01.webp",
+        "alt": "Строй девушек с комсомольским журналом на площади. Парадный кадр советской молодёжи; год съёмки в файле не подписан.",
+        "caption": "Строй девушек с комсомольским журналом на площади. Парадный кадр советской молодёжи; год съёмки в файле не подписан.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/komsomol/01.webp"
+      },
+      {
+        "src": "/media/movements/komsomol/02.webp",
+        "alt": "Дополнительный кадр из папки ВЛКСМ. Подпись-источник в файле отсутствует.",
+        "caption": "Дополнительный кадр из папки ВЛКСМ. Подпись-источник в файле отсутствует.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/komsomol/02.webp"
+      }
+    ]
+  },
+  "gil": {
+    "images": [
+      {
+        "src": "/media/movements/gil/hero.webp",
+        "alt": "Девочки у палатки на фоне надписи DUCE. Лагерный кадр фашистской итальянской молодёжи.",
+        "caption": "Девочки у палатки на фоне надписи DUCE. Лагерный кадр фашистской итальянской молодёжи.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/gil/hero.webp"
+      },
+      {
+        "src": "/media/movements/gil/01.webp",
+        "alt": "Значок Gioventù del Littorio с девизом Vincere. Предмет организации, не групповой портрет.",
+        "caption": "Значок Gioventù del Littorio с девизом Vincere. Предмет организации, не групповой портрет.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/gil/01.webp"
+      }
+    ]
+  },
+  "dai-nippon-seishonendan": {
+    "images": [
+      {
+        "src": "/media/movements/dai-nippon-seishonendan/hero.webp",
+        "alt": "Марш японской молодёжи с флагами. Кадр из папки статьи о Дай Ниппон Сэйсёнэндан / смежных союзах военного времени.",
+        "caption": "Марш японской молодёжи с флагами. Кадр из папки статьи о Дай Ниппон Сэйсёнэндан / смежных союзах военного времени.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/dai-nippon-seishonendan/hero.webp"
+      },
+      {
+        "src": "/media/movements/dai-nippon-seishonendan/01.webp",
+        "alt": "Строй с бамбуковыми пиками. По облику ближе к сэйнэндан на оккупированной Яве, чем к метрополии; в статье этот колониальный аналог отдельно оговорён.",
+        "caption": "Строй с бамбуковыми пиками. По облику ближе к сэйнэндан на оккупированной Яве, чем к метрополии; в статье этот колониальный аналог отдельно оговорён.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/dai-nippon-seishonendan/01.webp"
+      }
+    ]
+  },
+  "zmp": {
+    "images": [
+      {
+        "src": "/media/movements/zmp/hero.webp",
+        "alt": "Митинг молодёжи со знамёнами, табличка Bydgoskie. Польский кадр из папки ZMP; точная атрибуция в файле не подписана.",
+        "caption": "Митинг молодёжи со знамёнами, табличка Bydgoskie. Польский кадр из папки ZMP; точная атрибуция в файле не подписана.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/zmp/hero.webp"
+      },
+      {
+        "src": "/media/movements/zmp/01.webp",
+        "alt": "Значок SZMW. Это не эмблема ZMP 1948 года, а смежный предмет польского молодёжного движения; дан как контекст.",
+        "caption": "Значок SZMW. Это не эмблема ZMP 1948 года, а смежный предмет польского молодёжного движения; дан как контекст.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/zmp/01.webp"
+      }
+    ]
+  },
+  "boy-scouts-of-america": {
+    "images": [
+      {
+        "src": "/media/movements/boy-scouts-of-america/hero.webp",
+        "alt": "Кадр из папки Boy Scouts of America.",
+        "caption": "Кадр из папки Boy Scouts of America.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/boy-scouts-of-america/hero.webp"
+      },
+      {
+        "src": "/media/movements/boy-scouts-of-america/01.webp",
+        "alt": "Кадр из папки Boy Scouts of America.",
+        "caption": "Кадр из папки Boy Scouts of America.",
+        "author": "материалы статьи",
+        "license": "уточнить",
+        "sourceUrl": "/media/movements/boy-scouts-of-america/01.webp"
       }
     ]
   }

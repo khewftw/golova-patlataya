@@ -7,7 +7,6 @@ import { HistoricalWorldMap } from "@/components/map/HistoricalWorldMap";
 import { MapControls } from "@/components/map/MapControls";
 import { MapHeader } from "@/components/map/MapHeader";
 import { MapLegend } from "@/components/map/MapLegend";
-import { StoriesIndex } from "@/components/map/StoriesIndex";
 import { AboutPanel } from "@/components/ui/AboutPanel";
 import { loadWorldCountries, type MapCountryFeature } from "@/lib/map/load-world";
 import {
@@ -36,7 +35,6 @@ export function HistoricalMapClient({ movements, editorHref }: HistoricalMapClie
   const [hoveredId, setHoveredId] = useState<string | null>(null);
   const [pointer, setPointer] = useState({ x: 0, y: 0 });
   const [aboutOpen, setAboutOpen] = useState(false);
-  const [indexOpen, setIndexOpen] = useState(false);
   const dragRef = useRef<{ x: number; y: number } | null>(null);
   const skipClickRef = useRef(false);
 
@@ -129,7 +127,6 @@ export function HistoricalMapClient({ movements, editorHref }: HistoricalMapClie
       if (event.key === "Escape") {
         setHoveredId(null);
         setAboutOpen(false);
-        setIndexOpen(false);
         setTransform(IDENTITY_TRANSFORM);
       }
     };
@@ -163,10 +160,8 @@ export function HistoricalMapClient({ movements, editorHref }: HistoricalMapClie
       }}
     >
       <MapHeader
-        storiesCount={movements.length}
         editorHref={editorHref}
         onOpenAbout={() => setAboutOpen(true)}
-        onOpenIndex={() => setIndexOpen(true)}
       />
       {countries.length > 0 ? (
         <HistoricalWorldMap
@@ -195,14 +190,9 @@ export function HistoricalMapClient({ movements, editorHref }: HistoricalMapClie
         movement={hoveredMovement}
         x={pointer.x}
         y={pointer.y}
-        visible={Boolean(hoveredMovement) && !aboutOpen && !indexOpen}
+        visible={Boolean(hoveredMovement) && !aboutOpen}
       />
       <AboutPanel open={aboutOpen} onClose={() => setAboutOpen(false)} />
-      <StoriesIndex
-        open={indexOpen}
-        movements={movements}
-        onClose={() => setIndexOpen(false)}
-      />
     </div>
   );
 }
